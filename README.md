@@ -15,7 +15,7 @@
   <tr>
     <td>
       <!-- Stats -->
-      <a href="https://www.linkedin.com/in/kurskiidd"><img src="https://img.shields.io/badge/Sergey%20Kubatko-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin"/></a>
+      <a href="https://www.linkedin.com/in/kurskiidd"><img src="https://img.shields.io/badge/Pavel%20Kurskii-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin"/></a>
       <a href="https://gitstats.me/pablokurskii"><img src="https://img.shields.io/badge/-pablokurskii-black?style=flat&labelColor=black&logo=github&logoColor=white" alt="Github"/></a>
     </td>
   </tr>
@@ -23,7 +23,7 @@
     <td>
       <!-- Badges -->
       <a href="https://www.codewars.com/users/pablokurskii"><img src="https://www.codewars.com/users/pablokurskii/badges/micro" alt="Codewars"/></a>
-      <a href="#"><img src="https://komarev.com/ghpvc/?username=skubatko&style=flat" alt="Profile"/></a>
+      <a href="#"><img src="https://komarev.com/ghpvc/?username=pablokurskii&style=flat" alt="Profile"/></a>
     </td>
   </tr>
 </table>
