@@ -1,16 +1,32 @@
-### Hi there 👋
+<!-- HTML -->
+<table>
+  <tr>
+    <td>
+      <!-- Skills -->
+      <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
+    </td>
+    <td rowspan="3">
+      <!-- Wins -->
+      
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <!-- Stats -->
+      <a href="https://www.linkedin.com/in/kurskiidd"><img src="https://img.shields.io/badge/Sergey%20Kubatko-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin"/></a>
+      <a href="https://gitstats.me/pablokurskii"><img src="https://img.shields.io/badge/-pablokurskii-black?style=flat&labelColor=black&logo=github&logoColor=white" alt="Github"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <!-- Badges -->
+      <a href="https://www.codewars.com/users/pablokurskii"><img src="https://www.codewars.com/users/pablokurskii/badges/micro" alt="Codewars"/></a>
+      <a href="#"><img src="https://komarev.com/ghpvc/?username=skubatko&style=flat" alt="Profile"/></a>
+    </td>
+  </tr>
+</table>
 
-<!--
-**pablokurskii/pablokurskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://hit.yhype.me/github/profile?user_id=76567455)
+![](https://komarev.com/ghpvc/?username=pablokurskii)
