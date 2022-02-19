@@ -7,10 +7,6 @@
       <a href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/></a>
       <a href="#"><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
     </td>
-    <td rowspan="3">
-      <!-- Wins -->
-      
-    </td>
   </tr>
   <tr>
     <td>
