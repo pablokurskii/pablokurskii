@@ -29,4 +29,3 @@
 </table>
 
 ![](https://hit.yhype.me/github/profile?user_id=76567455)
-![](https://komarev.com/ghpvc/?username=pablokurskii)
